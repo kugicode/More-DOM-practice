@@ -1,0 +1,6 @@
+/*Styling are text when clicked */
+.completed {
+    text-decoration: line-through;
+    color: gray;
+    transition: color 0.3s ease-in-out;
+}
